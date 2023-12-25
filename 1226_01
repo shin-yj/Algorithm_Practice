@@ -1,3 +1,7 @@
+https://school.programmers.co.kr/learn/courses/30/lessons/42576
+파이썬 Lv 1 완주하지 못한 선수
+
+
 def solution(participant, completion):
     hash ={} # 해시 딕셔너리
     for i in participant:
